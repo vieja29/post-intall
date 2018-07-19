@@ -64,9 +64,9 @@ apt-get dist-upgrade -y
 
 
 # actualizo plugin de flash para chromium (no se si es redundante con el último paso)
-update-pepperflashplugin-nonfree --install --verbose
+#update-pepperflashplugin-nonfree --install --verbose
 # actualizo plugin de flash para firefox
-update-flashplugin-nonfree ----install --verbose
+#update-flashplugin-nonfree ----install --verbose
 
 #actualizo firefox
 update-firefox
